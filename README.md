@@ -39,6 +39,7 @@ Robô autônomo capaz de seguir uma linha preta sobre fundo branco, percorrendo 
 | Branco (0) | Branco (0) | Avança em linha reta |
 | Preto (1) | Branco (0) | Vira para a esquerda |
 | Branco (0) | Preto (1) | Vira para a direita |
+| Preto (1) | Preto (1) | Mantém os últimos valores dos motores |
 
 ---
 
